@@ -3,4 +3,5 @@
 demo_app
 ========
 
-a travis check
+a travis check 
+tests
